@@ -1,4 +1,4 @@
-E-commerce Data Analysis
+## E-commerce Data Analysis
 
 This project performs exploratory data analysis (EDA) on an e-commerce dataset using Python.
 
